@@ -25,3 +25,8 @@
 ## 단순 실행방법
 * ./gradlew bootRun
 * ./gradlew bootRun -Dspring.profiles.active=[프로필명]
+
+## 공부 날짜
+|날짜|시간|내용|
+|---|---|---|
+|2018.05.11|1:15|Chapter2 예제 실습|
